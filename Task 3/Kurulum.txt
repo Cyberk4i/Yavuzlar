@@ -1,0 +1,8 @@
+* Öncelikle Zip olarak sıkıştırılmış dosyamızı indiriyoruz.
+* Ardından istediğimiz bir konuma sıkıştırılmış dosyayı çıkartıyoruz.
+* Bu projeyi çalıştırmak için bilgisayarımızda docker kurulu olmalı.
+* Windows powershell (veya işletim sisteminize uygun terminali) açalım.
+* Terminaldem, İndirdiğimiz klasörün içerisinde bulunan docker klasörünün dizinine gidelim.
+* Docker klasörüne geldiğimizide " docker-compose up --build" komutunu çalıştıralım.
+* Docker uygulamasından container ayağa kalkmış mı bakalım.
+* Eğer container ayağa kalmış işe tarayıcımızdan localhost adresine giderek projemizi açabiliriz.
