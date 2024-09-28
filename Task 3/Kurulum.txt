@@ -6,3 +6,4 @@
 * Docker klasörüne geldiğimizide " docker-compose up --build" komutunu çalıştıralım.
 * Docker uygulamasından container ayağa kalkmış mı bakalım.
 * Eğer container ayağa kalmış işe tarayıcımızdan localhost adresine giderek projemizi açabiliriz.
+*** Admin kullanıcısı otomatik olarak oluşur. "Username: admin", "Password: admin" ***
