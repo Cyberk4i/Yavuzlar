@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Modüler Web Shell</title>
+    <title>Yavuzlar Web Shell</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -62,7 +62,7 @@
 <body>
 
 <div class="header">
-    <h1>Modüler Web Shell</h1>
+    <h1>Yavuzlar Web Shell</h1>
 </div>
 
 <div class="container">
